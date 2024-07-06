@@ -15,7 +15,7 @@ Author: yeseong9769 (https://github.com/yeseong9769)
 ### Is_contract, Revhex
 Author: 55hnnn (https://github.com/55hnnn)
 
-## CTF Environment
+## CTF Platform
 CTFd with Docker plugin: [CTFd-Docker](https://github.com/yeseong9769/CTFd-Docker)
 
 ## Challenge Environment
