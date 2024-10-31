@@ -1,6 +1,9 @@
 # WhatsYourETH-CTF-Challenges
 Smart contract vulnerability challenges for What's Your ETH CTF, part of the 12th K-Shield Junior Vulnerability Analysis Course Project
 
+## CTF Architecture
+![image](https://github.com/user-attachments/assets/4d0e672a-67b1-49d6-94c6-f34e26f5ad64)
+
 ## Challenges and Authors
 
 ### Youth, Water
